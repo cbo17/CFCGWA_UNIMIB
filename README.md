@@ -3,7 +3,7 @@ Current and Future Challenges of Gravitational Wave Astronomy
 
 This is a PhD course at the University of Milan-Bicocca. It will consist of 16 hours of instruction, divided into 8 classes taught over 4 weeks. The delivery will consist of chalk talks, coding tutorials, and hands-on problems. The aim of this course is to provide both a theoretical overview of gravitational wave astronomy and exposure to the techniques that are actually used in research. 
 
-The material for each class is available below, as it becomes available. If the lecture is recorded, that recording will be posted [here](https://elearning.unimib.it/). 
+The material will be linked below as it becomes available. If the lecture is recorded, that recording will be posted [here](https://elearning.unimib.it/). 
 
 ## Schedule
 
