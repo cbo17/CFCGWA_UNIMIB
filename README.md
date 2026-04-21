@@ -15,6 +15,9 @@ Time: 10:30 am - 12:30 pm
 
 Tuesday,  April 21: Introduction (Slides)
 
+ - **[Slides (Keynote)](L01_intro/intro_slides.key)**
+ - **[Slides (PDF)](L01_intro/intro_slides.pdf)**
+
 Thursday, April 23: Fermi Estimates and Dimensional Analysis (Chalk talk, hands-on problems)
 
 **Week 2**
