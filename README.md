@@ -20,6 +20,8 @@ Tuesday,  April 21: Introduction (Slides)
 
 Thursday, April 23: Fermi Estimates and Dimensional Analysis (Chalk talk, hands-on problems)
 
+- **[Handout](L02_fermi/L02_handout.pdf)**
+
 **Week 2**
 
 Tuesday, April 28: Post Newtonian Binaries (Chalk talk)
