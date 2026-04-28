@@ -22,7 +22,7 @@ Thursday, April 23: Fermi Estimates and Dimensional Analysis (Chalk talk, hands-
 
 - **[Handout](L02_fermi/L02_handout.pdf)**
 
-- **[Handout](L02_fermi/L02_handout_solution.pdf)**
+- **[Solutions](L02_fermi/L02_handout_solution.pdf)**
 
 **Week 2**
 
