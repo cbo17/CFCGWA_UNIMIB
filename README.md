@@ -26,9 +26,13 @@ Thursday, April 23: Fermi Estimates and Dimensional Analysis (Chalk talk, hands-
 
 **Week 2**
 
-Tuesday, April 28: Post Newtonian Binaries (Chalk talk)
+Tuesday, April 28: Stationary Phase Approximation  (Chalk talk)
 
-Thursday, April 30: Stationary Phase Approximation and Waveform Approximants (Chalk talk)
+- **[Notes](L03_SPA/L03_notes.pdf)**
+
+Thursday, April 30: Post Newtonian Binaries (Chalk talk) 
+
+- **[Notes](L04_PN/L04_notes.pdf)**
 
 **Week 3**
 
