@@ -30,7 +30,7 @@ Tuesday, April 28: Stationary Phase Approximation  (Chalk talk)
 
 - **[Notes](L03_SPA/L03_notes.pdf)**
 
-Thursday, April 30: Post Newtonian Binaries (Chalk talk) 
+Thursday, April 30: Post-Newtonian Binaries (Chalk talk) 
 
 - **[Notes](L04_PN/L04_notes.pdf)**
 
