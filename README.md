@@ -38,6 +38,8 @@ Thursday, April 30: Post-Newtonian Binaries (Chalk talk)
 
 Tuesday, May 5: Bayesian Overview (Tutorial)
 
+- **[Notebook](L05_bayes/L05_Bayes.ipynb)**
+
 Friday, May 8: Binary Parameter Estimation (Tutorial) 
 
 **Week 4**
