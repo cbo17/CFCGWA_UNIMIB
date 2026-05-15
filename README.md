@@ -39,10 +39,15 @@ Thursday, April 30: Post-Newtonian Binaries (Chalk talk)
 
 Tuesday, May 5: Bayesian Overview (Tutorial)
 
-- **[Notebook](L05_bayes/L05_Bayes.ipynb)**
+- **[Notebook](L05_bayes/L05_Bayes.ipynb)** <a target="_blank" href="https://colab.research.google.com/github/BSGalvan/CFCGWA_UNIMIB/blob/main/L05_bayes/L05_Bayes.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 Friday, May 8: Binary Parameter Estimation (Tutorial) 
 
+- **[Notebook](L06_PE/L06_PE.ipynb)** <a target="_blank" href="https://colab.research.google.com/github/BSGalvan/CFCGWA_UNIMIB/blob/main/L06_PE/L06_PE.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 - **[Notebook](L06_PE/L06_PE.ipynb)**
 
 **Week 4**
